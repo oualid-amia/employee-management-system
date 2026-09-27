@@ -1,11 +1,13 @@
-[
-  {
-    "name": "Overview",
-    "items": [
-      {
-        "name": "Introduction",
-        "path": "index"
-      }
-    ]
-  }
-]
+{
+  "items": [
+    {
+      "text": "Overview",
+      "items": [
+        {
+          "text": "Introduction",
+          "path": "index.md"
+        }
+      ]
+    }
+  ]
+}
