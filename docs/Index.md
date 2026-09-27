@@ -1,28 +1,92 @@
-\# Employee Management System
+# Employee Management System
 
+Welcome to the **Employee Management System** documentation.
 
+This documentation provides an overview of the system, its main features, architecture, and usage.
 
-Welcome to the Employee Management System documentation.
+---
 
+## 📋 Overview
 
+The **Employee Management System** is an application designed to manage employee information in a centralized system.
 
-\## Introduction
+### Main capabilities
 
+* 👤 Employee management
+* 📝 Employee registration
+* 🔎 Employee search
+* 📄 Employee information management
 
+---
 
-This is a test documentation project for VoloDocs.
+## 🚀 Getting Started
 
+### Prerequisites
 
+Before using the application, make sure you have:
 
-\## Features
+* A valid user account
+* Access to the Employee Management System
+* The required permissions
 
+### Accessing the application
 
+1. Open the application.
+2. Sign in with your credentials.
+3. Navigate to **Employee Management**.
 
-\- Employee management
+---
 
-\- Employee registration
+## 👥 Employee Management
 
-\- Employee search
+The Employee Management module allows users to:
 
-\- Employee information
+| Feature         | Description                          |
+| --------------- | ------------------------------------ |
+| Create employee | Register a new employee              |
+| Search          | Find employees using search criteria |
+| View            | Display employee information         |
+| Update          | Modify employee information          |
 
+---
+
+## 🔍 Employee Search
+
+Users can search for employees using different criteria:
+
+* Employee name
+* Employee ID
+* Department
+* Position
+
+---
+
+## 📚 Documentation Structure
+
+The documentation is organized into the following sections:
+
+```text
+Employee Management System
+│
+├── Overview
+├── Getting Started
+├── Employee Management
+│   ├── Create Employee
+│   ├── Search Employee
+│   ├── View Employee
+│   └── Update Employee
+│
+└── Administration
+```
+
+---
+
+## 🔐 Permissions
+
+Access to employee information can be controlled according to the user's permissions and roles.
+
+---
+
+## 📌 Summary
+
+The Employee Management System provides a centralized solution for managing employee information and related operations.
